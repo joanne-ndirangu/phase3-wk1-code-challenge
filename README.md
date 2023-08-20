@@ -27,6 +27,7 @@ Stable internet connection
 3. Open the code on your visual studio code by typing still on the terminal
 ```js code .```
 4. Navigate to the respective challenge's file to view the solution code.
+5. You can test the code in the terminal by typing ```js python filename.py``` or ```js python3 filename.js``` depending on your python version.
 
 ## Author
 Joanne Ndirangu.

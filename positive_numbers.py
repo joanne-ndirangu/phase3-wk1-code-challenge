@@ -11,5 +11,6 @@ def positive_numbers(a, b, c):
 
     return positive_count == 2
 
+# testing data
 print(positive_numbers(2, 4, -3))
 
