@@ -16,7 +16,9 @@ This challenge involves calculating the highest value of consonant substrings in
 ## Project Setup
 ### Requirements
 Ubuntu
+
 Visual studio code
+
 Stable internet connection
 
 ### Installation Process
