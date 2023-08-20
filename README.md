@@ -23,13 +23,13 @@ Stable internet connection
 
 ### Installation Process
 1. Clone the repository onto your computer by opening your ubuntu terminal and running the instruction below:
-```js git clone git@github.com:joanne-ndirangu/phase3-wk1-code-challenge.git```
+``` git clone git@github.com:joanne-ndirangu/phase3-wk1-code-challenge.git```
 2. Once cloned navigate into your the directory using
-```js cd phase3-wk1-code-challenge```
+``` cd phase3-wk1-code-challenge```
 3. Open the code on your visual studio code by typing still on the terminal
-```js code .```
+``` code .```
 4. Navigate to the respective challenge's file to view the solution code.
-5. You can test the code in the terminal by typing ```js python filename.py``` or ```js python3 filename.js``` depending on your python version.
+5. You can test the code in the terminal by typing ```python filename.py``` or ```python3 filename.js``` depending on your python version.
 
 ## Author
 Joanne Ndirangu.
